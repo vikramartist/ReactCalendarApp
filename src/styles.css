@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.steps {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
